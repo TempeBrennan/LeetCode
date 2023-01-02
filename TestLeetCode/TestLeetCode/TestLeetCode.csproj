@@ -55,6 +55,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Greedy\ActivitySelection\Activity1.cs" />
+    <Compile Include="Greedy\Dijsktra\Dijsktra.cs" />
+    <Compile Include="Greedy\SpanningTree\Kruskal.cs" />
+    <Compile Include="Greedy\SpanningTree\Prim.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BackTracking\RatInMaze\Maze1.cs" />

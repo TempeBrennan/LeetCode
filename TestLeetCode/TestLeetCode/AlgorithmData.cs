@@ -8,7 +8,8 @@ namespace TestLeetCode
 {
     public enum AlgorithmType
     {
-        BackTracking
+        BackTracking,
+        Greedy
     }
 
     public interface IExecutable

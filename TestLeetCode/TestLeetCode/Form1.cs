@@ -22,6 +22,7 @@ namespace TestLeetCode
             new RatMaze1().Execute();
             new MultipleMaze().Execute();
             new MazePrint().Execute();
+            new GFG().Execute();
         }
     }
 }
